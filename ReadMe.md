@@ -158,3 +158,30 @@ Root:7
          0   3
              / \
             2    4
+
+
+
+<h1>KodluyoruzIlkRepo</h1>
+
+Bu repo Kodluyoruz Pythob Veri Bilimi Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+
+<h4>Installation</h4>
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+
+git clone https://github.com/ali-osman-de/kodluyoruzilkrepo
+
+<h4>Usage</h4>
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+
+cd kodluyoruzilkrepo
+				
+code .
+
+<h4>Contributing</h4>
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+<h4>License</h4>
+https://choosealicense.com/licenses/mit/
+

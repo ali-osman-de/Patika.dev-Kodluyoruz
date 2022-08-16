@@ -219,8 +219,10 @@ output: [[[7, 6, 5], [4, 3], [2, 1]]
 
 <h5>1.soru çözümü</h5>
 Soru_1.py dosyası
-linki: 
+linki: https://github.com/ali-osman-de/Patika.dev-Kodluyoruz/blob/main/Soru_1.py
 
 <h5>2.soru çözümü</h5>
 Soru_2.py dosyası
-linki:
+linki: https://github.com/ali-osman-de/Patika.dev-Kodluyoruz/blob/main/Soru_2.py
+
+

@@ -3,10 +3,10 @@
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
-<h4>1.soru</h4> 
+<h3>1.soru</h3> 
 Big-O gösterimini yazınız.
 
-<h4>2.soru:</h4>
+<h3>2.soru:</h3>
 Time Complexity 
 
 Average case:
@@ -18,10 +18,10 @@ Aradığımız sayının sonda olması
 Best case: 
 Aradığımız sayının dizinin en başında olması.
 
-<h4>3.soru:</h4>
+<h3>3.soru:</h3>
 Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-<h4>4.soru:</h4>
+<h3>4.soru:</h3>
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 

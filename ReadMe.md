@@ -47,3 +47,26 @@ Dizi sıralandıktan sonra 18 sayısı Average Case kapsamındadır
 3.Adım [3,5,7,8,2,9,4,15,6]
 
 4.Adım [3,5,7,2,8,9,4,15,6]
+
+
+<h1>Veri Yapilari Merge Sort</h1>
+
+
+<h3>1.soru:</h3> Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+<h3>2.soru:</h3> Big-O gösterimini yazınız.
+  
+  
+<h5>1.soru çözümü</h5>
+
+1.adım	[16,21,11,8,12,22]
+2.adım	[16,21,11]-[8,12,22]
+3.adım	[16]-[21,11]-[8]-[12,22]
+4.adım	[16]-[21]-[11]-[8]-[12]-[22]
+5.adım	[16]-[21,11]-[8]-[12,22]
+6.adım	[11,16,21]-[8,12,22]
+7.adım	[8,11,12,16,21,22]
+
+<h5>2.soru çözümü</h5>
+
+2^x=n logn O(nlogn)

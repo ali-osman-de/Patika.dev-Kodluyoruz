@@ -70,3 +70,91 @@ Dizi sıralandıktan sonra 18 sayısı Average Case kapsamındadır
 <h5>2.soru çözümü</h5>
 
 2^x=n logn O(nlogn)
+
+
+<h1>Veri Yapilari Binary-Search-Tree</h1>
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+<h5>1.adım:</h5>
+
+Root:7 
+
+
+<h5>2.adım:</h5> 5 < 7
+
+         7 
+        /
+       5
+<h5>3.adım:</h5> 1 < 7
+
+         7
+        / 
+       5
+      /
+     1
+<h5>4.adım:</h5> 8 > 7
+
+           7
+          / \
+         5   8
+        /
+      1
+<h5>5.adım:</h5> 3 < 7
+
+          7
+         / \
+        5   8
+       /
+      1
+       \
+         3
+<h5>6.adım:</h5> 6 < 7
+
+           7
+          / \
+         5   8
+        / \
+       1   6
+       \
+         3
+<h5>7.adım:</h5> 0 < 7
+
+           7
+          / \
+         5   8
+        / \
+       1   6
+      / \
+     0   3
+<h5>8.adım:</h5> 9 > 7
+
+            7
+           / \
+          5   8
+         / \    \
+        1   6    9
+       / \
+      0   3
+<h5>9.adım:</h5> 4 < 7
+
+             7
+            / \
+           5    8
+          / \     \
+         1   6     9
+        / \
+       0   3
+            \
+             4
+<h5>10 .adım:</h5> 2 < 7
+
+               7
+              / \
+             5   8
+            / \    \
+           1   6    9
+          / \
+         0   3
+             / \
+            2    4

@@ -185,3 +185,36 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 <h4>License</h4>
 https://choosealicense.com/licenses/mit/
 
+
+
+
+<h1>Sezgisel Matematik Blog</h1>
+
+Bu yazımda sezgisel olarak matematikteki limit konusunu inceleyeceğiz. Limit konusu isminden de anlaşılacağı üzere bir limit belirlemek üzere konulmuş bir konu. Aslında biraz geniş düşündüğümüzde birçok şeyin limitinin olduğunu görüyoruz. Size verilen her bir veri setinin alt ve üst birer limiti vardır. Örnek olarak bir araba satış veri setinde alt ve üstü bulmak basit olsa da CERN gibi atomu inceleyen bilim labaratuvarlarının o kadar veri setinin arasından istenilen limitleri belirlemesi hem komplex hem de uzun bir süreci içeriyor.
+
+
+<h1>Veri Bilimi Blog</h1>
+
+İnsanların sahip olduğu tüm bilişsel ve entelektüel yeteneklere sahip bir makine kavramı, yapay genel zeka (AGI) veya alternatif olarak genel AI olarak bilinir. Bununla birlikte teknolojiyle daha dar ölçekli AI görevlerinin üstesinden gelmeyi başardık. Günümüzde yoğun olarak algılama, tahmin veya planlama için belirli ihtiyaçlar için kullanılan yapay zeka modellerinden bahsedebiliriz. Toplamda bunlar 7 adet olduğunu söyleyebiliriz.
+
+
+<h1>Python Temel Proje</h1>
+
+
+<h3>Soru-1:</h3>
+
+Bir listeyi düzleştiren (flatten) fonksiyon yazın. Elemanları birden çok katmanlı listelerden ([[3],2] gibi) oluşabileceği gibi, non-scalar verilerden de oluşabilir. Örnek olarak:
+
+input: [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
+
+output: [1,'a','cat',2,3,'dog',4,5]
+
+
+<h3>Soru-2:</h3>
+Verilen listenin içindeki elemanları tersine döndüren bir fonksiyon yazın. Eğer listenin içindeki elemanlar da liste içeriyorsa onların elemanlarını da tersine döndürün. Örnek olarak:
+
+input: [[1, 2], [3, 4], [5, 6, 7]]
+
+output: [[[7, 6, 5], [4, 3], [2, 1]]
+
+<h5>1.soru çözümü</h5>

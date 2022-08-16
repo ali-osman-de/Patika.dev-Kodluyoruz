@@ -218,3 +218,9 @@ input: [[1, 2], [3, 4], [5, 6, 7]]
 output: [[[7, 6, 5], [4, 3], [2, 1]]
 
 <h5>1.soru çözümü</h5>
+Soru_1.py dosyası
+linki: 
+
+<h5>2.soru çözümü</h5>
+Soru_2.py dosyası
+linki:
